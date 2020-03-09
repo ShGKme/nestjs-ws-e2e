@@ -1,5 +1,7 @@
 # WebSocket testign sample
 
+[![Run on Repl.it](https://repl.it/badge/github/ShGKme/nestjs-ws-e2e)](https://repl.it/github/ShGKme/nestjs-ws-e2e)
+
 Example of NestJS WebSocket Gateway End-To-End testing.
 
 TODO: Add unit testing.
